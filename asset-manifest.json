@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/button-action-with-class-component/static/css/main.352ab1b7.css",
+    "main.js": "/button-action-with-class-component/static/js/main.ac614150.js",
+    "static/js/787.8a65f47d.chunk.js": "/button-action-with-class-component/static/js/787.8a65f47d.chunk.js",
+    "index.html": "/button-action-with-class-component/index.html",
+    "main.352ab1b7.css.map": "/button-action-with-class-component/static/css/main.352ab1b7.css.map",
+    "main.ac614150.js.map": "/button-action-with-class-component/static/js/main.ac614150.js.map",
+    "787.8a65f47d.chunk.js.map": "/button-action-with-class-component/static/js/787.8a65f47d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.352ab1b7.css",
+    "static/js/main.ac614150.js"
+  ]
+}
